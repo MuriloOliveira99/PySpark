@@ -1,0 +1,11 @@
+id_cliente;nome;rg;cpf;id_sexo;id_estado_civil;email;telefone;id_endereco
+1;jose armando;1211;343434343;1;1;yh@email.com;2222-1111;4
+2;carlo eduardo;32;4556454;1;1;yhsssss@email.com;2222-1112;5
+3;nina lopes;232;56645454;2;1;eeeeeh@email.com;2222-1113;6
+4;juan arturo;23444;7756454;1;1;eeeeddyh@email.com;2222-1115;7
+5;micheal marley;4454;4546575;1;2;ddddyh@email.com;2222-1111;8
+6;jhonny;6565;3434343;1;2;ssss;2122-1111;9
+7;carlo eduardo;576;75786;1;2;sssyh@email.com;2223-1111;10
+8;ian alan;55775;675645353;1;2;yh@email.com;1122-1111;11
+9;matheus cad;77667;97867554;3;2;email.com;2222-1dd1;12
+10;lando;6655;43323;3;2;yhemail.com;;
